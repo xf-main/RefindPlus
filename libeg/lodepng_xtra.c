@@ -30,8 +30,8 @@
  */
 
 #include "lodepng.h"
-#include "../BootMaster/rp_funcs.h"
-#include "../BootMaster/screenmgt.h"
+#include "../Main/rp_funcs.h"
+#include "../Main/screenmgt.h"
 #include "../include/refit_call_wrapper.h"
 
 typedef struct _lode_color {

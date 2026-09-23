@@ -22,9 +22,9 @@
 
 #include "legacy.h"
 #include "BdsHelper.h"
-#include "../BootMaster/lib.h"
-#include "../BootMaster/mystrings.h"
-#include "../BootMaster/screenmgt.h"
+#include "../Main/lib.h"
+#include "../Main/mystrings.h"
+#include "../Main/screenmgt.h"
 #include "../include/refit_call_wrapper.h"
 
 EFI_GUID gEfiLegacyBootProtocolGuid = { 0xdb9a1e3d, 0x45cb, 0x4abb, \

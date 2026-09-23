@@ -52,8 +52,8 @@
 
 #include "global.h"
 #include "mok.h"
-#include "../BootMaster/lib.h"
-#include "../BootMaster/screenmgt.h"
+#include "../Main/lib.h"
+#include "../Main/screenmgt.h"
 #include "../include/refit_call_wrapper.h"
 
 BOOLEAN ShimFound  = FALSE;

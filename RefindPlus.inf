@@ -30,25 +30,25 @@
 
 
 [Sources]
-    BootMaster/apple.c
-    BootMaster/badram_tag.c
-    BootMaster/config.c
-    BootMaster/crc32.c
-    BootMaster/driver_support.c
-    BootMaster/gpt.c
-    BootMaster/icns.c
-    BootMaster/install.c
-    BootMaster/launch_efi.c
-    BootMaster/launch_legacy.c
-    BootMaster/lib.c
-    BootMaster/line_edit.c
-    BootMaster/linux.c
-    BootMaster/main.c
-    BootMaster/menu.c
-    BootMaster/mystrings.c
-    BootMaster/pointer.c
-    BootMaster/scan.c
-    BootMaster/screenmgt.c
+    Main/apple.c
+    Main/badram_tag.c
+    Main/config.c
+    Main/crc32.c
+    Main/driver_support.c
+    Main/gpt.c
+    Main/icns.c
+    Main/install.c
+    Main/launch_efi.c
+    Main/launch_legacy.c
+    Main/lib.c
+    Main/line_edit.c
+    Main/linux.c
+    Main/main.c
+    Main/menu.c
+    Main/mystrings.c
+    Main/pointer.c
+    Main/scan.c
+    Main/screenmgt.c
     EfiLib/AcquireGOP.c
     EfiLib/AmendSysTable.c
     EfiLib/BmLib.c

@@ -43,9 +43,9 @@
 
 
 #include "libegint.h"
-#include "../BootMaster/global.h"
-#include "../BootMaster/rp_funcs.h"
-#include "../BootMaster/screenmgt.h"
+#include "../Main/global.h"
+#include "../Main/rp_funcs.h"
+#include "../Main/screenmgt.h"
 #include "egemb_font.h"
 #include "egemb_font_small.h"
 #include "egemb_font_large.h"

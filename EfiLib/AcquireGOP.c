@@ -31,7 +31,7 @@ EFI_STATUS ReissueGOP (VOID) {
 #else
 
 #include "Platform.h"
-#include "../BootMaster/lib.h"
+#include "../Main/lib.h"
 #include "../include/refit_call_wrapper.h"
 #include "../../ShellPkg/Include/Library/HandleParsingLib.h"
 

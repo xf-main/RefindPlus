@@ -36,7 +36,7 @@
 #include <Library/IoLib.h>
 #include <Library/PciLib.h>
 #include "GenericIch.h"
-#include "../../BootMaster/rp_funcs.h"
+#include "../../Main/rp_funcs.h"
 #include "../../include/refit_call_wrapper.h"
 
 // Struct for holding mem buffer.

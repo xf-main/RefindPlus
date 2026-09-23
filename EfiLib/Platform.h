@@ -63,7 +63,7 @@ Headers collection for procedures
 #include "../libeg/efiConsoleControl.h"
 #include "../EfiLib/GenericBdsLib.h"
 
-#include "../BootMaster/global.h"
+#include "../Main/global.h"
 
 #define EFI_HANDLE_TYPE_UNKNOWN                     0x000
 #define EFI_HANDLE_TYPE_IMAGE_HANDLE                0x001

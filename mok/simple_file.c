@@ -11,7 +11,7 @@
 **/
 
 #include <global.h>
-#include "../BootMaster/mystrings.h"
+#include "../Main/mystrings.h"
 #include "../include/refit_call_wrapper.h"
 
 #include "simple_file.h"

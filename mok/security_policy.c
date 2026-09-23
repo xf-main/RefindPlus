@@ -17,7 +17,7 @@
 #include "mok.h"
 #include "guid.h"
 #include "simple_file.h"
-#include "../BootMaster/lib.h"
+#include "../Main/lib.h"
 #include "../include/refit_call_wrapper.h"
 
 #include <security_policy.h>

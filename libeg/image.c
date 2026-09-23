@@ -62,10 +62,10 @@
 ** Modifications distributed under the preceding terms.
 **/
 
-#include "../BootMaster/lib.h"
-#include "../BootMaster/global.h"
-#include "../BootMaster/screenmgt.h"
-#include "../BootMaster/mystrings.h"
+#include "../Main/lib.h"
+#include "../Main/global.h"
+#include "../Main/screenmgt.h"
+#include "../Main/mystrings.h"
 #include "../include/refit_call_wrapper.h"
 #include "libegint.h"
 #include "lodepng.h"

@@ -33,8 +33,8 @@
 #endif
 #include "legacy.h"
 #include "GenericBdsLib.h"
-#include "../BootMaster/global.h"
-#include "../BootMaster/rp_funcs.h"
+#include "../Main/global.h"
+#include "../Main/rp_funcs.h"
 #include "../include/refit_call_wrapper.h"
 
 BOOT_OPTION_BBS_MAPPING  *mBootOptionBbsMapping      = NULL;

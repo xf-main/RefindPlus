@@ -13,7 +13,7 @@
 **/
 
 #include "../../include/tiano_includes.h"
-#include "../../BootMaster/global.h"
+#include "../../Main/global.h"
 #include "MemLogLib.h"
 
 #if REFIT_DEBUG > 0
@@ -23,9 +23,9 @@
 #include <Protocol/LoadedImage.h>
 #include <Guid/FileInfo.h>
 #include <Library/UefiBootServicesTableLib.h>
-#include "../../BootMaster/lib.h"
-#include "../../BootMaster/screenmgt.h"
-#include "../../BootMaster/mystrings.h"
+#include "../../Main/lib.h"
+#include "../../Main/screenmgt.h"
+#include "../../Main/mystrings.h"
 #include "../../include/refit_call_wrapper.h"
 
 #ifndef __MAKEWITH_GNUEFI

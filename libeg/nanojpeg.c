@@ -119,7 +119,7 @@
 // HEADER SECTION                                                            //
 // Copy and pase this into nanojpeg.h if required                            //
 ///////////////////////////////////////////////////////////////////////////////
-#include "../BootMaster/rp_funcs.h"
+#include "../Main/rp_funcs.h"
 
 #ifndef _NANOJPEG_H
 #define _NANOJPEG_H

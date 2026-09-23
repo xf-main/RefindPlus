@@ -19,8 +19,8 @@ WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED.
 **/
 
 #include "Platform.h"
-#include "../BootMaster/rp_funcs.h"
-#include "../BootMaster/mystrings.h"
+#include "../Main/rp_funcs.h"
+#include "../Main/mystrings.h"
 #include "../include/refit_call_wrapper.h"
 
 /**
